@@ -1,0 +1,5 @@
+{
+  "name": "DentalPromo TaxiRef",
+  "description": "A referral system for taxi drivers offering dental promotions, featuring AI assistance and WhatsApp integration.",
+  "requestFramePermissions": []
+}
